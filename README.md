@@ -16,12 +16,6 @@ CSS
 JavaScript
 OpenWeatherMap API
 Setup and Installation
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/your-username/Bella-weather-app.git
-cd fancy-weather-app
 Open the HTML File
 
 Open index.html in your preferred web browser. No additional setup is required.
