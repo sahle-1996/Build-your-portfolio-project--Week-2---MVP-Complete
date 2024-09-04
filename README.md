@@ -40,6 +40,8 @@ javascript
 Copy code
 const API_KEY = "-------------";
 
+My site is live at  https://sahle-1996.github.io/Build-your-portfolio-project--Week-2---MVP-Complete/
+
 Customization
 Styling: You can customize the app's appearance by editing the CSS styles in index.html.
 Weather Icons and Animations: Modify the getWeatherIcon and getAnimationClass functions in index.html to change weather icons and animations based on different conditions.
