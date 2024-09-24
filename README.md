@@ -7,7 +7,7 @@ Introduction
 
 The Bella Weather App is a stylish and modern web application that provides real-time weather information for any city around the world. Designed with a sleek interface and interactive features, this app allows users to check current weather conditions like temperature, humidity, wind speed, and more. With responsive design and beautiful animations, the Bella Weather App delivers both functionality and a visually pleasing user experience.
 
-Live Demo: https://sahle-1996.github.io/Build-your-portfolio-project--Week-2---MVP-Complete/
+Live Demo:  https://sahle-1996.github.io/Build-your-portfolio-project--Week-2---MVP-Complete/
 
 Author: Sahle Goitom
 LinkedIn: https://www.linkedin.com/in/sahle-goitom-57451b1a2/
