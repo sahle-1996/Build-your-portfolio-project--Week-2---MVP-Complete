@@ -75,5 +75,5 @@ For any questions or feedback, feel free to reach out:
 Email: alxforalx@gmail.com
 LinkedIn: Sahle Goitom's [LinkedIn](https://www.linkedin.com/in/sahle-goitom-57451b1a2/)
 
-![Screenshot of Bella Weather App](Landing page.png)
+![Screenshot of Bella Weather App](mainpage.png)
 
